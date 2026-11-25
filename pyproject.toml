@@ -1,0 +1,6 @@
+[project]
+name = "fastapiprac"
+version = "0.1.0"
+description = "Практическая работа: API для книг"
+requires-python = ">=3.10"
+dependencies = ["fastapi", "pydantic>=2", "uvicorn"]
